@@ -62,8 +62,6 @@
 %type <base_char_ptr> T_NAME_IDENTIFIER
 
 
-
-
 %%
 
 /* WRITEME: This rule is a placeholder. Replace it with your grammar
